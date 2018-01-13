@@ -26,6 +26,9 @@ links:
   - name:         Cocos2d-Js
     url:          /tags
     external:     false
+  - name:         其他
+    url:          /tags
+    external:     false
   - name:         关于
     url:          /about
     external:     false
