@@ -14,13 +14,13 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         苹果
+  - name:         iOS
     url:          /ios
     external:     false
-  - name:         安卓
+  - name:         Android
     url:          /android
     external:     false
-  - name:         蟒蛇
+  - name:         Python
     url:          /python
     external:     false
   - name:         其他
