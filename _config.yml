@@ -14,17 +14,14 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         iOS
-    url:          /book
+  - name:         苹果
+    url:          /ios
     external:     false
-  - name:         Android
-    url:          /road
+  - name:         安卓
+    url:          /android
     external:     false
-  - name:         Python
-    url:          /archives
-    external:     false
-  - name:         Cocos2d-Js
-    url:          /tags
+  - name:         蟒蛇
+    url:          /python
     external:     false
   - name:         其他
     url:          /tags
