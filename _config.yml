@@ -14,16 +14,16 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
+  - name:         iOS
     url:          /book
     external:     false
-  - name:         旅游
+  - name:         Android
     url:          /road
     external:     false
-  - name:         归档
+  - name:         Python
     url:          /archives
     external:     false
-  - name:         标签
+  - name:         Cocos2d-Js
     url:          /tags
     external:     false
   - name:         关于
