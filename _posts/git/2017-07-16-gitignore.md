@@ -1,15 +1,13 @@
 ---
 layout: blog
 istop: true
-title: "Git忽略规则及.gitignore规则正确姿势"
+title: "这是我的第一篇博文,还在测试中"
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/38390376.jpg
 date:  2017-07-16 23:45:56
 category: git
 tags:
-- github
-- git
-- gitignore
-- Git忽略规则
+- 博文
+
 ---
 
 # 实现需求
