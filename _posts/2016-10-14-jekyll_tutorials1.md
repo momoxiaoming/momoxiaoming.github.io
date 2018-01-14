@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Jekyll搭建个人博客
-date: 2016-10-14 
+title: 如何利用jekyll搭建个人博客
+date: 2017-10-14 
 tags: 博客   
 ---
 
-　之前写了一篇[HEXO搭建个人博客](http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)的教程获得了很好评，尤其是在[简书](http://www.jianshu.com/p/465830080ea9)上目前已经累积了10W+的阅读量了，也有好心的读者主动给我打赏，在此感谢。
+　本文章参考潘博信博文，在此感谢。
 
 　如果你看过我的文章会发现我现在的博客样式跟之前是有很大的区别的，之前我也是使用 HEXO 搭建的博客，后来发现使用 HEXO 在多台电脑上发布博客，操作起来并不是那么方便，果断就转到了 Jekyll 上，接下来我会讲如何使用 Jekyll 搭建博客，[博客模板效果](http://baixin.io/#blog)。
 
@@ -275,7 +275,37 @@ Configuration file: /Users/baixinpan/Desktop/OpenSource/Mine/Page-Blog/leopardpa
 
 如果你在搭建博客遇到问题，可以在[原文博客](http://baixin.io/2016/10/jekyll_tutorials1/)的评论里给我提问。
 
-后面会继续介绍，在我的博客基础上，如何修改成你自己喜欢的 Style，欢迎继续关注我博客的更新。
+如何使用和修改我的博客主题，文章内容含以下几点：
+
+* 修改博客基础信息
+* 发布文章
+* 修改博客样式
+
+博客模板根目录下的基本结构为
+
+```
+.
+├── _config.yml 
+├── _includes    
+├── _layouts
+├── _posts
+├── _site
+├── 404.html
+├── about.md
+├── archive.html
+├── CNAME
+├── css
+├── feed.xml
+├── Gemfile
+├── Gemfile.lock
+├── images
+├── index.html
+├── js
+├── Rakefile
+├── README.md
+└── tags.html
+
+```
 
 
 ### Q&A 
