@@ -9,16 +9,16 @@ avatarDesc: iOS / Android
 url: "https://momoxiaoming.github.io"
 
 # Comment
-comment:
-    disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+#comment:
+#    disqus: leopard
+#    # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: momoxiaoming 
+    github: momoxiaoming
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 245545357@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
