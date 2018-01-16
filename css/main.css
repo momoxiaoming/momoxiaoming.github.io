@@ -1373,9 +1373,9 @@ nav a {
 
 .nav-menu-item a {
   padding: 0px;
-  color: #999;
+  color: #fff;
   font-weight: 700;
-  font-size: .8em;
+  font-size: .12em;
   text-shadow: none;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
@@ -1411,7 +1411,7 @@ nav a {
 }
 
 .nav-menu-item a:hover{
-  color: #fff;
+  color: #333;
 }
 
 .nav-menu-item a:hover::before,
