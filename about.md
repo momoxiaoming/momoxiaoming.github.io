@@ -11,7 +11,7 @@ title: 关于我
 
 <p>
 <p>
-如果需要加入Python学习交流微信群的友友,可以先添加微信号:zhangxiaoming138406 ,回复我爱python即可.
+如果需要加入Python学习交流微信群的友友,可以先添加微信号:zhangxiaoming138406 ,回复我爱python即可拉你入群!
 
 <p>
 
